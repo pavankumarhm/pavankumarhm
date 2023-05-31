@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my GitHub profile! I am a highly skilled and motivated data scientist with expertise in machine learning, deep learning, and computer vision. I am passionate about leveraging these skills to tackle challenging and dynamic problems. My education and experience have equipped me with a solid foundation in data science, data analysis, and programming.
+
 ## [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pavankumarhm&count_private=true&theme=tokyonight&showicons=true)]()
 ## [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarhm&langs_count=5&theme=tokyonight)]()
 <!--
