@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I am a highly skilled and motivated data science student with expertise in machine learning, deep learning, and computer vision. I am passionate about leveraging these skills to tackle challenging and dynamic problems. My education and experience have equipped me with a solid foundation in data science, data analysis, and programming.
 
-##[![My Skills](https://skillicons.dev/icons?i=aws,py,pytorch,tensorflow,r,gcp,github,vscode,docker,kubernetes,MongoDB,postman,js,ts,vite,nodejs,react,vercel,matlab,discord)](https://skillicons.dev)
+##[![My Skills](https://skillicons.dev/icons?i=aws,py,pytorch,tensorflow,r,gcp,github,vscode,docker,kubernetes,mongodb,postman,js,ts,vite,nodejs,react,vercel,matlab,discord)](https://skillicons.dev)
 ## [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pavankumarhm&count_private=true&theme=tokyonight&showicons=true)]()
 ## [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarhm&langs_count=5&theme=tokyonight)]()
 <!--
