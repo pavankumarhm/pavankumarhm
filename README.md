@@ -2,7 +2,7 @@
 
 Motivated Machine Learning Engineer with expertise in MLOps, Deep Learning, and Computer Vision. Experienced in deploying AI models on cloud platforms, enhancing model performance, and integrating AI capabilities into applications for impactful solutions.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,py,pytorch,tensorflow,r,gcp,azure,github,vscode,docker,kubernetes,mongodb,postman,js,ts,vite,nodejs,react,css,vercel,matlab,discord)](https://skillicons.dev) [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pavankumarhm&count_private=true&theme=tokyonight&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarhm&langs_count=5&theme=tokyonight)]()
+[![My Skills](https://skillicons.dev/icons?i=aws,py,pytorch,tensorflow,r,gcp,microsoftazure,github,vscode,docker,kubernetes,mongodb,postman,js,ts,vite,nodejs,react,css,vercel,matlab,discord)](https://skillicons.dev) [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pavankumarhm&count_private=true&theme=tokyonight&showicons=true)]() [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavankumarhm&langs_count=5&theme=tokyonight)]()
 <!--
 **pavankumarhm/pavankumarhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
